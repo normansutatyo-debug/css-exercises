@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.classPink{
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.classBigFont {
+font-size: 24px;
+}
+
+#no2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#no4 {
+    background-color: lightgreen;
+    font-weight: bold;
+}
